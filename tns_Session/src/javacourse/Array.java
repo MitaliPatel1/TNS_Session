@@ -1,3 +1,6 @@
+//Write a program to create an array of 7 numbers. Print how many even numbers are there in your array.
+
+
 package javacourse;
 
 public class Array {
