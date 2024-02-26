@@ -1,3 +1,5 @@
+//Print the first character of string by changing its case.
+
 package javacourse;
 
 
