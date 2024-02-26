@@ -1,3 +1,5 @@
+//Write a C++ program to implement a stack using an array with push and pop operations. Find the top element of the stack and check if the stack is empty or not.
+
 package javacourse;
 
 public class Stack_pop_push_empty {
