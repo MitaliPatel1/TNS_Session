@@ -1,3 +1,5 @@
+//create class Employee with data members employee name, designation and email generate getter, setter and to string function for it.
+
 package javacourse;
 
 public class Employee {
