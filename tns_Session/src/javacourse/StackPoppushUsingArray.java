@@ -1,3 +1,5 @@
+//write a program of stack and perform pop and push operation using array.
+
 package javacourse;
 
 
