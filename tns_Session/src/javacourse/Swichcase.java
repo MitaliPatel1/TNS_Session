@@ -1,3 +1,5 @@
+//find the biggest number using switch case
+
 package javacourse;
 
 public class Swichcase {
